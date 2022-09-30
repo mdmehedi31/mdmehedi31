@@ -1,7 +1,4 @@
 
-### Hi there 👋
-
-<!--<p align="left"> -->
 <div class="row" align="center">
     <h3 align="center" align>Connect with me:</h3>
   <div class="column" align="center">
@@ -13,8 +10,6 @@
   </br>
   </br>
 </div>
-<!--</p> -->
- 
 <div class="row" align="center">
 <div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div>
 <div>
