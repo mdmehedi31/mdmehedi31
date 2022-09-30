@@ -10,8 +10,8 @@
   </br>
   </br>
 </div>
-<div class="row" align="center">
-<div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div>
+<div class="row" align="left">
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div>
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmehedi31&show_icons=true&locale=en&layout=compact" alt="mdmehedi31" /></p> </div>
 </br>
