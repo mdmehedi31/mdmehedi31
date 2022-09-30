@@ -8,7 +8,7 @@
 <a href="https://www.leetcode.com/mdmehedihasan31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdmehedihasan31" height="20" width="30" /></a>
 </div></br></br></div>
 <div class="row" align="left"><div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmehedi31&show_icons=true&locale=en&layout=compact" alt="mdmehedi31"/></p> </div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmehedi31&show_icons=true&locale=en&layout=compact" alt="mdmehedi31"/></div>
 </br>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmehedi31&" alt="mdmehedi31" /></p> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmehedi31&" alt="mdmehedi31" />
