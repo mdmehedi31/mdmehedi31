@@ -4,7 +4,7 @@
 <!--<p align="left"> -->
 <div class="row" align="center">
     <h3 align="center" align>Connect with me:</h3>
-  <div class="column">
+  <div class="column" align="center">
     <a href="https://fb.com/m.h.mehedi.hasan.sakib" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.h.mehedi.hasan.sakib" height="20" width="30" /></a>
 <a href="https://twitter.com/mdmehedi_31" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehedi_31" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/mdmehedihasan31" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmehedihasan31" height="20" width="30" /></a>
