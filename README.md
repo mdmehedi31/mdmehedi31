@@ -9,8 +9,8 @@
 </div></br></br></div>
 
 <div class="row" align="center">
- <div class="colums"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div>
-<div class="column"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmehedi31&" alt="mdmehedi31" /></div>
+ <div class="colums"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmehedi31&show_icons=true&locale=en" alt="mdmehedi31"/></div></br>
+<div class="column"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmehedi31&" alt="mdmehedi31" /></div></br>
 <div class="colums"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmehedi31&show_icons=true&locale=en&layout=compact" alt="mdmehedi31"/></div>
 </br>
 </div>
